@@ -1,2 +1,3 @@
 # test_sim
-sample1
+
+This is my first awesome repo .
